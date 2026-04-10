@@ -48,11 +48,3 @@ E-COMMERCE-AMAZON-EDA-MAIN/
 - Correlation between features
 
 ---
-
-## 🚀 Getting Started
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/AmanJha-1337/Project_1--E-commerce-.git
-cd Project_1--E-commerce-
